@@ -1,2 +1,3 @@
 # c2048
-Game 2048 on C99+CSFML
+
+Implementation of 2048 on C99 using CFML https://github.com/SFML/CSFML library.
